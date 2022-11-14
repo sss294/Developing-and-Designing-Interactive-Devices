@@ -1,4 +1,5 @@
 # Final Project
+Sara Shin and Patrick Mazza
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
@@ -21,15 +22,33 @@ Your project is to design and build an interactive device to suit a specific app
 ## Deliverables
 
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
+Art installation that evokes the feelings of being overwhelmed, all-encompassing and emphatic. 
+As people come close to the installation, the model will wrap around the person giving them an immersive experience. 
+
+Timeline
+11/14 - pick up motor and start working on linear
+11/22 - finish making linear motor and begin testing the movement
+11/29 - finalize movement and add exterior cover
+
+Parts
+Metallic vinyl
+polymer clay
+plastic(?) or fabric(?) for exterior
+parts to convert motor to linear motor
+plastic tape to make the movement to be smoother
 
 2. Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
 
 3. Documentation of design process
-4. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
-5. Video of someone using your project
-6. Reflections on process (What have you learned or wish you knew at the start?)
+
+
+5. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
+6. Video of someone using your project
+7. Reflections on process (What have you learned or wish you knew at the start?)
 
 7. Group work distribution questionnaire
+Sara - hardware and design
+Patrick - software and motor
 
 ## Change of Design
 

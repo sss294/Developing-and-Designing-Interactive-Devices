@@ -22,8 +22,13 @@ Your project is to design and build an interactive device to suit a specific app
 ## Deliverables
 
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
+
+
 Art installation that evokes the feelings of being overwhelmed, all-encompassing and emphatic. 
+
 As people come close to the installation, the model will wrap around the person giving them an immersive experience. 
+
+https://docs.google.com/presentation/d/1lFMN896u5jD7AGPvUD3AGriM1lpWgNPd7TfTwevIBnc/edit?usp=sharing
 
 Timeline
 11/14 - pick up motor and start working on linear

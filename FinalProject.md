@@ -42,7 +42,7 @@ Timeline
 
 11/29 - finalize movement and add exterior cover
 
-Parts
+Parts needed for project:
 
 Metallic vinyl
 
@@ -53,6 +53,11 @@ plastic(?) or fabric(?) for exterior
 parts to convert motor to linear motor
 
 plastic tape to make the movement to be smoother
+
+
+
+The fall back plan is to create a device that moves when someone approaches it. This means that if we cannot get the art installation to encapsulate the individual, we would still want it to present itself in a beautiful manner so individuals can appreciate the artwork and interact with it in a foundational manner.
+
 
 
 3. Documentation of design process

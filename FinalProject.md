@@ -27,14 +27,21 @@ As people come close to the installation, the model will wrap around the person 
 
 Timeline
 11/14 - pick up motor and start working on linear
+
 11/22 - finish making linear motor and begin testing the movement
+
 11/29 - finalize movement and add exterior cover
 
 Parts
+
 Metallic vinyl
+
 polymer clay
+
 plastic(?) or fabric(?) for exterior
+
 parts to convert motor to linear motor
+
 plastic tape to make the movement to be smoother
 
 2. Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.

@@ -31,6 +31,7 @@ As people come close to the installation, the model will wrap around the person 
 https://docs.google.com/presentation/d/1lFMN896u5jD7AGPvUD3AGriM1lpWgNPd7TfTwevIBnc/edit?usp=sharing
 
 Timeline
+
 11/14 - pick up motor and start working on linear
 
 11/22 - finish making linear motor and begin testing the movement

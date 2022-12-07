@@ -64,7 +64,7 @@ The fall back plan is to create a device that moves when someone approaches it. 
 3. Documentation of design process
 4. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
 
-
+https://github.com/patrickMazza/Interactive-Lab-Hub/blob/Fall2022/Lab%206/final_project_idd_coding.py
 
 5. Video of someone using your project
 

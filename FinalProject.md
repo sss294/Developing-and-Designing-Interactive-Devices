@@ -36,6 +36,7 @@ Art installation that evokes the feelings of being overwhelmed, all-encompassing
 As people come close to the installation, the model will wrap around the person giving them an immersive experience. 
 
 Timeline
+
 11/14 - pick up motor and start working on linear
 
 11/22 - finish making linear motor and begin testing the movement
@@ -74,6 +75,7 @@ It is fine to change your project goals, but please resubmit the project plan fo
 
 ## Teams
 
+Sara Ghin, Patrick Mazza
 You can and are not required to work in teams. Be clear in documentation who contributed what. The total project contributions should reflect the number of people on the project.
 
 ## Examples

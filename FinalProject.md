@@ -63,11 +63,18 @@ The fall back plan is to create a device that moves when someone approaches it. 
 
 3. Documentation of design process
 
+Initial top deign stage:
 ![IMG_6762](https://user-images.githubusercontent.com/112049036/206301072-daa83974-c6cd-4e86-a064-21a2876e9f22.JPG)
 
-![IMG_6941](https://user-images.githubusercontent.com/112049036/206301278-7045f850-20a2-4ac0-a129-a30a06384174.JPG)
+Display at Open Studio:
 
-![IMG_6943](https://user-images.githubusercontent.com/112049036/206301313-d3191771-9f33-406b-b611-fe47d9c9ac9b.JPG)
+<img width="909" alt="3FBBC778-7156-45E2-B1A9-E65D6B7563DE" src="https://user-images.githubusercontent.com/112049036/206305464-6a3d66fb-3e98-4615-9ed3-0af451fb62a3.png">
+
+Display at Open Studio2:
+
+
+<img width="960" alt="276B2FBE-D890-474A-A710-7F83F65873A1" src="https://user-images.githubusercontent.com/112049036/206305543-23a6353a-36c0-4a40-868f-ac3dac0efacc.png">
+
 
 Coding the initial interaction:
 https://youtube.com/shorts/oQTaCCzYQVI

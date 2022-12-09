@@ -82,9 +82,6 @@ https://youtube.com/shorts/oQTaCCzYQVI
 Prototype of proposed movement:
 https://youtube.com/shorts/qlm_Jl5fG78
 
-Grace testing the device:
-https://youtu.be/t1W5f3eM-GY
-
 Explanation of interactive project:
 https://youtu.be/dhYz2MutLRU
 
@@ -95,10 +92,16 @@ https://github.com/patrickMazza/Interactive-Lab-Hub/blob/Fall2022/Lab%206/final_
 
 5. Video of someone using your project
 
+Grace testing the device:
+https://youtu.be/t1W5f3eM-GY
+
 6. Reflections on process (What have you learned or wish you knew at the start?)
+
+We created a prototype for this project because the large art instillation was too big to work with. We then made a smaller prototype with a smaller motor so it can be functional and work as a proof of concept. A really interesting aspect we learned from this prototype was that the surface on which we preformed the movement was imperitive on how the prototype preformed. This was due to the fact that on some surfaces the bottom of the art instillation would get stuck and stall, studder, or completly stop the motor. 
 
 7. Group work distribution questionnaire
 
+Patrick Mazza: Coding, structure of motor movement
 ## Change of Design
 
 It is fine to change your project goals, but please resubmit the project plan for the new design when you do that.

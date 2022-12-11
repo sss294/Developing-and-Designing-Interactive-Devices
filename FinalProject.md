@@ -69,7 +69,8 @@ This is not the exact video however a similar video to the original I saw.
 https://www.instagram.com/reel/CjEEf7Rgtiv/?igshid=OTRmMjhlYjM%3D&fbclid=IwAR1_BNjvdmcOkD9vFxxj1MfiYueqC42pS8gH11d4SGPySYvSgYddDaWQr9k
 
 From memory, I started cutting out pieces of paper and taping them together until I got to a shape and movement that I liked: 
-https://drive.google.com/open?id=1HMTFd7DU_StLUXk0mtRQP74zE3vedU4c&usp=drive_copy
+<img width="909" alt="3FBBC778-7156-45E2-B1A9-E65D6B7563DE" src="[https://user-images.githubusercontent.com/112049036/206305464-6a3d66fb-3e98-4615-9ed3-0af451fb62a3.png](https://drive.google.com/open?id=1HMTFd7DU_StLUXk0mtRQP74zE3vedU4c&usp=drive_copy)">
+
 
 https://drive.google.com/open?id=1TDLep5Apk_y6ZjGwTAxpK2W4CMrR7evn&usp=drive_copy
 

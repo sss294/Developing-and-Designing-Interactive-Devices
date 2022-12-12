@@ -61,39 +61,56 @@ The fall back plan is to create a device that moves when someone approaches it. 
 
 
 
-3. Documentation of design process
+# 3. Documentation of design process
 
+<p>
 This all got started when I took this picture that immediately seemed to overwhelm me. I coudn't look away, and it confused me how a photo could have such a strong reaction on me. I wanted to find a 3D shape/design that would invoke the same emotions without being too complicated in terms of movement. The movement needed to be "grasping" or "curling" towards the user and I remembered an instagram video of a teacher creating an octopus leg out of paper that could curl in and out. 
-
+</p>
+  
+<section>
 This is not the exact video however a similar video to the original I saw. 
-https://www.instagram.com/reel/CjEEf7Rgtiv/?igshid=OTRmMjhlYjM%3D&fbclid=IwAR1_BNjvdmcOkD9vFxxj1MfiYueqC42pS8gH11d4SGPySYvSgYddDaWQr9k
+  
+<p>https://www.instagram.com/reel/CjEEf7Rgtiv/?igshid=OTRmMjhlYjM%3D&fbclid=IwAR1_BNjvdmcOkD9vFxxj1MfiYueqC42pS8gH11d4SGPySYvSgYddDaWQr9k</p>
+</section>
 
+# Prototyping of the cardboard base
+
+<p>
 From memory, I started cutting out pieces of paper and taping them together until I got to a shape and movement that I liked: 
+</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/206934242-11d8a41e-2648-430a-8fe0-e8840680c82e.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/206934253-df461f86-dada-4e86-ada0-dd81dad76ddc.jpg">
 
-![IMG_2899](https://user-images.githubusercontent.com/112091818/206934242-11d8a41e-2648-430a-8fe0-e8840680c82e.jpg)
-![IMG_2900](https://user-images.githubusercontent.com/112091818/206934253-df461f86-dada-4e86-ada0-dd81dad76ddc.jpg)
+<p>https://drive.google.com/file/d/1TDLep5Apk_y6ZjGwTAxpK2W4CMrR7evn/view?usp=share_link</p>
 
-
-Initially, I imagined there to be multiple of this shape that would later be combined to make a flower or plant shape. 
+<p>
+  Initially, I imagined there to be multiple of this shape that would later be combined to make a flower or plant shape. 
 This was just one of the designs I considered
-https://drive.google.com/open?id=1k_ttLvgG4pdcTbJDXVvvMl7SolCY3bQA&usp=drive_copy
+</p>
+<img width="405" alt="3FBBC778-7156-45E2-B1A9-E65D6B7563DE" src="https://user-images.githubusercontent.com/112049036/206305464-6a3d66fb-3e98-4615-9ed3-0af451fb62a3.png">
 
-I then recreated the shape into cardboard and doubled the size. I messed around with the tip shape and ended up hating it. It looked too phallic and was not giving the shape I was looking for. 
-https://drive.google.com/open?id=1MhTXkeh0sgrmMKjtD-XsAjrCnBJWOgKm&usp=drive_copy
-https://drive.google.com/open?id=16joisd__rWURmyTI0daeqM20qeUySc5e&usp=drive_copy
+<p>
+  I then recreated the shape into cardboard and doubled the size. I messed around with the tip shape and ended up hating it. It looked too phallic and was not giving the shape I was looking for. 
+</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207168558-a2e13a86-8f0a-45dd-bae0-f61a20b2887b.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207168592-3ce91b1d-372c-48c9-80e2-442a298af61b.jpg">
 
-The movement of the first cardboard prototype in action
-https://drive.google.com/open?id=1zFV-IXvY-9hYdaptF9zVv8UXoR1GyFaH&usp=drive_copy
-https://drive.google.com/open?id=1FtuHnHDpP8zRU5-xZLSF_81B4ttkhwg3&usp=drive_copy
-https://drive.google.com/open?id=1GUmsx4ySA9CuLwhF1nsBFPm71-zPfQuZ&usp=drive_copy
+<p>
+  The movement of the first cardboard prototype in action
+</p>
+<p>https://drive.google.com/file/d/1S8oZzBfJ9mE3OEkmKn4LV8p7Lm1OU2wz/view?usp=share_link</p>
 
+<img width="405" src="">
+
+<p>
 As you can see, the prototype curled up nicely. It was at this stage I realized that the tape had to be tight on the back edge as to not allow the cardboard to flop to one side or the other as you could not open it up. Also, I was still considering the different angles I could play with to create the aforementioned plant or flower shape. I actually disliked the shape as a petal so decided to not make a flower. 
-https://drive.google.com/open?id=1S8oZzBfJ9mE3OEkmKn4LV8p7Lm1OU2wz&usp=drive_copy
+</p>
 
-I then doubled the size once again and changed the tip to match the original shape. 
-https://drive.google.com/open?id=1GXJ_XYh3Cdkq9CnEb71OHmr9395-U2C1&usp=drive_copy
-Progress of cutting the shape out
-https://drive.google.com/open?id=13_SOICnVOdNxO4s5lvVNBvBKn902Wk6m&usp=drive_copy
+<p>I then doubled the size once again and changed the tip to match the original shape.</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207173891-eae569a5-daa6-4ad6-b7a9-62753a47c85b.jpg">
+
+<p>Progress of cutting the shape out</p>
+<img width="405" src="">
 
 I was looking at that size and knew it was still too small so I doubled it again
 https://drive.google.com/open?id=1wYKOcPrkRWI7VE62uJ-55kZIInk1jz9R&usp=drive_copy

@@ -189,13 +189,23 @@ While I was still debating on the outside, I painted the outside with balck acry
 
 Prototyping the motor was a process that went in an unexpected direction.
 
-First test with the new servo motor:
-https://youtu.be/QSxVko-Tzkw
+<<<<<<< patch-6
+# Motor attachment
+<p>For the final attachment to the motor, Sara designed and printed the motor attachement: </p>
+
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207223754-9f785178-b1e7-499c-840a-4590215c31a1.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207223709-c97d4bfc-2147-4d58-b118-6e9233dc7628.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207223808-ca4708dd-ac0a-4575-8383-1d20cb8e5566.jpg">
+=======
+Prototyping the motor was a process that went in an unexpected direction.
+
+
 
 For the final attachment to the motor, Sara designed and printed the motor attachement: 
 https://drive.google.com/open?id=1A8MC3tbDca7riSCXwt7_VIj-SnccKqt4&usp=drive_copy
 https://drive.google.com/open?id=17hVxpfj9tJkuIYHPnwkbl86HLbsSv4qR&usp=drive_copy
 https://drive.google.com/open?id=16dFgCp5RpAE4Os8r4uW3cuGD6QUAFcx9&usp=drive_copy
+>>>>>>> 2022Fall
 
 ...and combined them together using a soldering iron. Sadly don't have a picture of it but shown in the video
 

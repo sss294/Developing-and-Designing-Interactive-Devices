@@ -30,9 +30,7 @@ This project is going to be an animatronic claw-like object that is 6 feet tall.
 
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
 
-2. Project plan: Big idea, timeline, parts needed, fall-back plan.
-
-Art installation that evokes the feelings of being overwhelmed, all-encompassing and emphatic. 
+Create an Art installation that evokes the feelings of being overwhelmed, all-encompassing and emphatic. 
 As people come close to the installation, the model will wrap around the person giving them an immersive experience. 
 
 Timeline

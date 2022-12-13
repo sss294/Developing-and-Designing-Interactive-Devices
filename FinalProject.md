@@ -100,7 +100,7 @@ This was just one of the designs I considered
 </p>
 <p>https://drive.google.com/file/d/1S8oZzBfJ9mE3OEkmKn4LV8p7Lm1OU2wz/view?usp=share_link</p>
 
-<img width="405" src="">
+
 
 <p>
 As you can see, the prototype curled up nicely. It was at this stage I realized that the tape had to be tight on the back edge as to not allow the cardboard to flop to one side or the other as you could not open it up. Also, I was still considering the different angles I could play with to create the aforementioned plant or flower shape. I actually disliked the shape as a petal so decided to not make a flower. 
@@ -110,71 +110,85 @@ As you can see, the prototype curled up nicely. It was at this stage I realized 
 <img width="405" src="https://user-images.githubusercontent.com/112091818/207173891-eae569a5-daa6-4ad6-b7a9-62753a47c85b.jpg">
 
 <p>Progress of cutting the shape out</p>
-<img width="405" src="">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207180698-2407a84b-b5a8-4ddf-9d18-647aae91553a.jpg">
 
-I was looking at that size and knew it was still too small so I doubled it again
-https://drive.google.com/open?id=1wYKOcPrkRWI7VE62uJ-55kZIInk1jz9R&usp=drive_copy
+<p>I was looking at that size and knew it was still too small so I doubled it again</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207180839-b3bd38b4-c844-49a1-a8dd-68ef10ca3a36.jpg">
 
-And immediately upon finishing it I knew it was once again too small... So I doubled it once again 
-https://drive.google.com/open?id=1jWhuilv3EuqO9xhz1Xbh4h7CiEIJxLqu&usp=drive_copy
+<p>And immediately upon finishing it I knew it was once again too small... So I doubled it once again </p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207181246-afd5d5ea-19df-40c4-990e-e3d1e24fdb20.jpg">
 
-I was finally happy with the size of the curl but wanted the height to be taller so I cut of the bottom segmented piece and attached it to another full piece of cardboard. I used glue and scrap pieces of cardboard to strengthen the seam
-https://drive.google.com/open?id=1lkBrkGTe3LHqFor2pLLLwBzz36VtN89m&usp=drive_copy
+<p>I was finally happy with the size of the curl but wanted the height to be taller so I cut of the bottom segmented piece and attached it to another full piece of cardboard. I used glue and scrap pieces of cardboard to strengthen the seam</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207181541-06ef89a9-53bf-4474-bc5f-0d0e4ffecd7a.jpg">
 
-I put the bottom piece back together with the top and it resulted in this 6 ft monstrosity 
-https://drive.google.com/open?id=1U8qT37g-I0z1n_lo6HlQb9sh7AHkUF2b&usp=drive_copy
-A side profile
-https://drive.google.com/open?id=14h2q0VhbzC67p7lWOwQmMgu0FGNz9DuM&usp=drive_copy
+<p>I put the bottom piece back together with the top and it resulted in this 6 ft monstrosity </p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207181725-03dc5cb2-fe5d-4151-a3eb-0640294a5efa.jpg">
+<p>A side profile</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207181808-fce1b88b-9eab-4bd1-a4e8-886628a2e4ab.jpg">
 
-A video of the final movement and shape
-https://drive.google.com/open?id=1jDnOuOH9dKwgNMwvdJ2v07yI42f40Obk&usp=drive_copy
+<section>
+<p>A video of the final movement and shape</p>
+<p>https://drive.google.com/open?id=1jDnOuOH9dKwgNMwvdJ2v07yI42f40Obk&usp=drive_copy</p>
+</section>
+  
+# Internal Appearance
 
+<p>
 Once I was done with the shape, I turned my attention to the internal appearance. I initially wanted something subtley creeped out or slightly made the user feel claustrophobic. I began talking to different people at the lab for feedback or ideas and really pondered what felt right to the piece. I considered everything from a jungle to a more concrete feel, the flesh of an oyster to the inside of a bird beak. I took a 2 week break on this project seriously pondering what to do when Sebastian, the co-lab manager for the MakerLab had this reflective piece of plastic vinyl out. I initially considered it for another project I talked about doing with another friend. 
-
+</p>
+<p>
 However, the longer I thought about it, I liked the idea of my installation showing a distorted view of the user. I tried putting it on top pieces and I loved the effect it gave. I eventually chose to cover the entire inside with it. 
-https://drive.google.com/open?id=15-J8fwM14EbDzefmZ6dpkZ_rRzmtS1cU&usp=drive_copy
-https://drive.google.com/open?id=1XX_eaGzRXyLHbpfI47bG1awJCbWNfflu&usp=drive_copy
-https://drive.google.com/open?id=1TwORYI4MwfX563cYf_cBIiV1FSijTSZE&usp=drive_copy
+</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207182764-a358036a-aec4-480d-966f-6730d1a2f647.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207182780-679d342d-a37c-4f00-ad44-f4b4ae77ef0b.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207182791-934253d4-5e96-4d4d-96ac-a5d705988246.jpg">
 
-I will next discuss the exterior of the panels, but I would like to mention we started working on the motor and how to move the installation at this point and was done in conjunction. 
+*I will next discuss the exterior of the panels, but I would like to mention we started working on the motor and how to move the installation at this point and was done in conjunction. 
 
+# External Appearance
+<p>
 I wanted there to be a contrasting texture to the outside. I again considered a lot of different options. Making it look like sand or concrete to contrast against the very futuristic looking inside. I eventually landed the idea of scales and was inspired by reptiles and was planning to make it out of acrylic or fabric. However, I wasn't able to find fabric that I liked and I determined that acrylic would be too heavy for the already flimsy base. 
-
+</p>
+  
+<p>
 While I was still debating on the outside, I painted the outside with balck acrylic paint so no cardboard would show no matter what I put on top. 
-https://drive.google.com/open?id=1r_cgWTN0QgAM1QkvEU6tQwYL7S0zF5tK&usp=drive_copy
+</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207183008-852cc076-a397-4de9-8fd5-4ff64b35be6f.jpg">
 
-I then wondered at the remainder of the plastic vinyl I had and tried making a simple shape and mess with the curvature. I taped a couple pieces onto paper and got this
-https://drive.google.com/open?id=1T8JNrEJ6jEfwMXdaMvagj-yDyzkArhy1&usp=drive_copy
+<p>I then wondered at the remainder of the plastic vinyl I had and tried making a simple shape and mess with the curvature. I taped a couple pieces onto paper and got this</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207184348-5f52e533-3449-4954-80d3-9033ccba71e0.jpg">
 
-I actually enjoyed the shape so I started putting them on the piece. However, the tape was unable to maintan the curvature of the scale that I had enjoyed earlier and kept falling off. I remembered having experimented heating up the plastic on a different project and wondered if it would help in this case. It did. 
+<p>I actually enjoyed the shape so I started putting them on the piece. However, the tape was unable to maintan the curvature of the scale that I had enjoyed earlier and kept falling off. I remembered having experimented heating up the plastic on a different project and wondered if it would help in this case. </p>
+  
+<p>It did. </p>
 
-By putting the scales in this tube and heating it up with a heat gun, I was able to get the desired shape. 
-https://drive.google.com/open?id=1FEIO4r-wF1yzriNkOG-QmaxT36vW1BkT&usp=drive_copy
-https://drive.google.com/open?id=1thwD8xsuFLbiqp8d7Gg_zHMAomoJaFv6&usp=drive_copy
-https://drive.google.com/open?id=1t56EoqSu6nHFKyTUT-m9pvs0zxlqTHnW&usp=drive_copy
+<p>By putting the scales in this tube and heating it up with a heat gun, I was able to get the desired shape.</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207185053-e135dd72-bcca-41b7-bfbe-3e208afbb80e.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207185069-c4c25fc6-2891-463c-ae6b-150883003ee4.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207185101-ee0c55e0-53b0-43bc-8354-8b8b9724f69a.jpg">
 
-This was the start of putting the scales on the piece
-https://drive.google.com/open?id=1pj-eSmlYk0s1RWZ5qfBiwy5KKaFFo0jR&usp=drive_copy
+<p>This was the start of putting the scales on the piece</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207199093-5f97b3ac-58d4-46fe-88c8-0df0fcdd0d6e.jpg">
 
-...and the lifting of the scales that I used wood tape to fix from this 
-https://drive.google.com/open?id=1hokG2YdzkFuieMFlxfVBtDnDuNNr0-xa&usp=drive_copy
+<p> ...and the lifting of the scales that I used wood tape to fix from this </p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207185613-fb72947b-f0a0-4d38-95ad-af1ee1ed9911.jpg">
 
-... to this
-https://drive.google.com/open?id=1jZNumhTGvxaW_ozkvhK-D45lA99bHlex&usp=drive_copy
+<p>... to this</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207198966-24e41744-6ddd-4242-8eda-da0feeb67d12.jpg">
 
-Now it was just a matter of repeating this too many times
-https://drive.google.com/open?id=1MNgrLKZ_R6i4Y5lK4uD4cvz1w8U4oYCm&usp=drive_copy
-https://drive.google.com/open?id=1eh5q7tujb-9cgwFlsBVTro32BOGcTmAC&usp=drive_copy
-https://drive.google.com/open?id=163NP__cHw1WA9GLWqtRMr7CYm0auUCcP&usp=drive_copy
-https://drive.google.com/open?id=1K1Ffynx01bTl6LkPrCZQmurSEruSOm7f&usp=drive_copy
-https://drive.google.com/open?id=1ZZhZlZ117PNAPTJ-KmNBNLPsFmOhi2fh&usp=drive_copy
-https://drive.google.com/open?id=1A_CWL_Kkaubggaeus4DrxKM_8qMrzsQd&usp=drive_copy
+<p>Now it was just a matter of repeating this too many times</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207199223-f1187226-9c0f-4ec9-82a8-879a82c9af9c.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207199232-177f396e-5c55-4bc3-a52e-7819ad53a453.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207199678-d7e85544-82a1-443a-8ba3-b28b5b2d4c27.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207199690-36be52a2-cb91-441b-98a9-5a908ac971c3.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207199709-fe389b20-a691-458f-b208-8cc1b6793286.jpg">
 
-almost there...
-https://drive.google.com/open?id=1weDSM2he2klNhRqnEmMeCL3bYq22z4Kd&usp=drive_copy
+<p>almost there...</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207200062-a2f9bdf2-169b-4088-9282-ce8d4eedc9fa.jpg">
 
-night before Open Studio... finally done
-https://drive.google.com/open?id=1LuHR_41xmsbsRYhP7LJpVQrf76Ka2Lv5&usp=drive_copy
+<p>night before Open Studio... finally done</p>
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207200485-2168a36f-2976-46ce-bec7-e6b96f5bd21d.jpg">
+
 
 *****Patrick put ur work here******
 
@@ -196,12 +210,8 @@ Initial top deign stage:
 Display at Open Studio:
 
 ![name](https://drive.google.com/open?id=1PCpzTh7Phsvq9T1azhPad9uMqGMSIPVA&usp=drive_copy)
-
-https://drive.google.com/open?id=1PCpzTh7Phsvq9T1azhPad9uMqGMSIPVA&usp=drive_copy
-
-https://drive.google.com/open?id=1N_N6r-0BLwg8j4_CgTnnSxUr0RE9pa_C&usp=drive_copy
-
-https://drive.google.com/open?id=1J7PnGtMCoHnTO9u9s6pE-07lEhn5JAOD&usp=drive_copy
+![IMG_4225](https://user-images.githubusercontent.com/112091818/207200656-b53d1d29-4c9f-47cf-b526-bb392ceaeafb.jpg)
+![IMG_4238](https://user-images.githubusercontent.com/112091818/207200667-c9e0dab3-114e-42c2-a1cb-81061b31ea30.jpg)
 
 <img width="909" alt="3FBBC778-7156-45E2-B1A9-E65D6B7563DE" src="https://user-images.githubusercontent.com/112049036/206305464-6a3d66fb-3e98-4615-9ed3-0af451fb62a3.png">
 
@@ -232,19 +242,27 @@ https://youtu.be/t1W5f3eM-GY
 
 6. Reflections on process (What have you learned or wish you knew at the start?)
 
+<p>
 We created a prototype for this project because the large art instillation was too big to work with. We then made a smaller prototype with a smaller motor so it can be functional and work as a proof of concept. Originally, we tried many ways of moving the art contraption from using wires, a rolling mechanism and a scissor like motion. These proved too complicated or were ugly and rudementary in nature. Another porblem with all of these designs is that the motor device we were using was too small. This lead us to Dr. Ju providig us with a larger stepper motor so our overall design would work. This lead us to the design of proping the motor on one side of the art instillation to keep it steady, and have a lever where the motor can contol the other side of the art instillation. A really interesting aspect we learned from this prototype was that the surface on which we preformed the movement was imperitive on how the prototype preformed. This was due to the fact that on some surfaces the bottom of the art instillation would get stuck and stall, studder, or completly stop the motor. This lead to us putting little frictionless felt on the side of the art instillation that would move. 
+</p>
 
+<p>
+What we learned was that adding a chair to the inside made it more intuitive for people sit inside the sculpture and interact with it as intended. Also we added sticky pads on the floor to act as a barrier to make it easier for people to let the sculpture stand once done. These two changes, albiet small, drastically changed how people interacted and understood the sculpture. 
+</p>
+
+<p>I do wish I had known that I would present this in an exhibition in March... I wouldn't have made it out of cardboard/p>
+  
 7. Group work distribution questionnaire
 
 Patrick Mazza: Coding, structure of motor movement
 ## Change of Design
 
-It is fine to change your project goals, but please resubmit the project plan for the new design when you do that.
+We didn't change our design, however, chose not to make the larger model be motorized. 
 
 
 ## Teams
 
-Sara Ghin, Patrick Mazza
+Sara Shin, Patrick Mazza
 You can and are not required to work in teams. Be clear in documentation who contributed what. The total project contributions should reflect the number of people on the project.
 
 ## Examples

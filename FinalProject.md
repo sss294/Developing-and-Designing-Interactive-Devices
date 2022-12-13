@@ -187,8 +187,10 @@ While I was still debating on the outside, I painted the outside with balck acry
 <p>night before Open Studio... finally done</p>
 <img width="405" src="https://user-images.githubusercontent.com/112091818/207200485-2168a36f-2976-46ce-bec7-e6b96f5bd21d.jpg">
 
+Prototyping the motor was a process that went in an unexpected direction.
 
-*****Patrick put ur work here******
+First test with the new servo motor:
+https://youtu.be/QSxVko-Tzkw
 
 For the final attachment to the motor, Sara designed and printed the motor attachement: 
 https://drive.google.com/open?id=1A8MC3tbDca7riSCXwt7_VIj-SnccKqt4&usp=drive_copy

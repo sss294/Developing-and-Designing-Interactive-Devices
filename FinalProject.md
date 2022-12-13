@@ -257,6 +257,7 @@ What we learned was that adding a chair to the inside made it more intuitive for
 7. Group work distribution questionnaire
 
 Patrick Mazza: Coding, structure of motor movement
+Sara Shin: Ideation, design, building of hardware and prototyping
 ## Change of Design
 
 We didn't change our design, however, chose not to make the larger model be motorized. 

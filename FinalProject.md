@@ -189,17 +189,17 @@ While I was still debating on the outside, I painted the outside with balck acry
 <p>night before Open Studio... finally done</p>
 <img width="405" src="https://user-images.githubusercontent.com/112091818/207200485-2168a36f-2976-46ce-bec7-e6b96f5bd21d.jpg">
 
+# Motor attachment
+<p>For the final attachment to the motor, Sara designed and printed the motor attachement: </p>
 
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207223754-9f785178-b1e7-499c-840a-4590215c31a1.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207223709-c97d4bfc-2147-4d58-b118-6e9233dc7628.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/112091818/207223808-ca4708dd-ac0a-4575-8383-1d20cb8e5566.jpg">
+
+<p>...and combined them together using a soldering iron. Sadly don't have a picture of it but shown in the video</p>
+
+<p>Patrick then worked on minimizing the angle of the motor movement. </p>
 *****Patrick put ur work here******
-
-For the final attachment to the motor, Sara designed and printed the motor attachement: 
-https://drive.google.com/open?id=1A8MC3tbDca7riSCXwt7_VIj-SnccKqt4&usp=drive_copy
-https://drive.google.com/open?id=17hVxpfj9tJkuIYHPnwkbl86HLbsSv4qR&usp=drive_copy
-https://drive.google.com/open?id=16dFgCp5RpAE4Os8r4uW3cuGD6QUAFcx9&usp=drive_copy
-
-...and combined them together using a soldering iron. Sadly don't have a picture of it but shown in the video
-
-Patrick then worked on minimizing the angle of the motor movement. 
 
 No pictures of this being done however the small prototype was spray painted with a texture spray and then a coat of black paint. Later a beak was painted on to mimic a penguin. 
 
@@ -250,7 +250,7 @@ We created a prototype for this project because the large art instillation was t
 What we learned was that adding a chair to the inside made it more intuitive for people sit inside the sculpture and interact with it as intended. Also we added sticky pads on the floor to act as a barrier to make it easier for people to let the sculpture stand once done. These two changes, albiet small, drastically changed how people interacted and understood the sculpture. 
 </p>
 
-<p>I do wish I had known that I would present this in an exhibition in March... I wouldn't have made it out of cardboard/p>
+<p>I do wish I had known that I would present this in an exhibition in March... I wouldn't have made it out of cardboard so I wouldn't have to remake it/p>
   
 7. Group work distribution questionnaire
 
